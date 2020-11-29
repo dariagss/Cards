@@ -25,7 +25,14 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>SwiftGen.xcscheme</key>
+		<key>R.swift.Library.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>R.swift.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

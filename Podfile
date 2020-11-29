@@ -6,7 +6,7 @@ target 'Cards' do
   use_frameworks!
 
   # Pods for Cards
-pod 'SwiftGen'
+	pod 'R.swift', '5.2.2'
 
   target 'CardsTests' do
     inherit! :search_paths
