@@ -20,6 +20,6 @@ class ScoresViewController: UIViewController {
 
 extension ScoresViewController: TabBarEmbeddable {
 	func getTabBarItem() -> UITabBarItem? {
-		return .init(title: "Scores", image: nil, tag: 1)
+		return .init(title: R.string.localizable.testTest(), image: nil, tag: 1)
 	}
 }

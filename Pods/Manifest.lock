@@ -1,16 +1,20 @@
 PODS:
-  - SwiftGen (6.4.0)
+  - R.swift (5.2.2):
+    - R.swift.Library (~> 5.2.0)
+  - R.swift.Library (5.2.0)
 
 DEPENDENCIES:
-  - SwiftGen
+  - R.swift (= 5.2.2)
 
 SPEC REPOS:
   trunk:
-    - SwiftGen
+    - R.swift
+    - R.swift.Library
 
 SPEC CHECKSUMS:
-  SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
+  R.swift: 7c52cdc57a66840ffe6cbd8a823d732059d42a32
+  R.swift.Library: 5ba4f1631300caf9a4d890186930da85d540769d
 
-PODFILE CHECKSUM: 696c51504ec95a68003b76b3710de6ce169705cc
+PODFILE CHECKSUM: 1a6d326bc9d68a5ee2bd086e5d768d2b4c4c1301
 
 COCOAPODS: 1.9.3
